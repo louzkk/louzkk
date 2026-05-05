@@ -1,6 +1,4 @@
-# Hi 👋
-
-**Software Engineering Student** • Enthusiast
+**Software Engineering Student**
 
 | Languages | Systems | Script & Tools |
 | :--- | :--- | :--- |
